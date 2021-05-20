@@ -2,7 +2,7 @@
 2. creates new file
  3. put spot in it
 4. rename in just spot without the numbers behind
-5.télécharger ce fichier
-6.le mettre dans le dossier
-7.le lancer
-8.lancer eula et mettre true a la place de false
+5. download this file
+6. put it in the file
+7.launch
+8.throw eula and put true in place of false
